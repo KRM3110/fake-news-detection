@@ -15,6 +15,7 @@ The project uses several machine learning models for fake news detection, includ
 Logistic Regression
 Random Forest Classifier
 Support Vector Machine (SVM)
+
 Separate models are trained for both English and Hindi datasets. The models are trained on the training subsets and evaluated 
 on the testing subsets to choose the best-performing models for each language.
 
